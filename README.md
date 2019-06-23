@@ -1,4 +1,4 @@
-# jupyterlab-data-search
+# (WIP) jupyterlab-data-search
 
 A JupyterLab extension to search public datasets.
 
